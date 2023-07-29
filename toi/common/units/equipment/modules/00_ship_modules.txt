@@ -7122,7 +7122,7 @@ equipment_modules = {
 
 		}
 
-		build_cost_resources = {
+		resources = {
 
 		}
 	}
