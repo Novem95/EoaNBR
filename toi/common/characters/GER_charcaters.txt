@@ -3,7 +3,7 @@ characters  =  {
 		name =  "Friedrich Ebert"
 		portraits  =  {
 			civilian  =  {
-				large  =  GFX_portrait_GER_Friedrich_Ebert
+				large  =  "gfx/leaders/GER/Portrait_GER_Friedrich_Ebert.dds"
 			}
 		}
 		country_leader  =  {
