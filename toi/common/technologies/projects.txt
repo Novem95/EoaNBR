@@ -1836,7 +1836,7 @@ technologies = {
 	tech_projects_kiel_canal_preparations = {
 
 		allow = {
-		 	owns_state = 58
+		 	always = no
 		}
 
 		path = {
